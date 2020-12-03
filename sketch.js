@@ -7,7 +7,7 @@ var foodObj;
 
 function preload(){
 sadDog=loadImage("images/dogImg.png");
-happyDog=loadImage("images/dogImg1.png");
+happyDog=loadImage("images/DogImg1.png");
 garden=loadImage("images/Garden.png");
 washroom=loadImage("images/Wash Room.png");
 bedroom=loadImage("images/Bed Room.png");
